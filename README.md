@@ -1,6 +1,6 @@
 # Ex--10-IAM-working-overview
-## REG NO:212224040080
-## NAME:DIVIYADHARSHINI.A
+## REG NO:212224040197
+## NAME: Mohanaprabha S
 ### Aim
 **To explore and configure AWS Identity and Access Management (IAM) users, groups, and policies, and to verify permissions for accessing Amazon S3 and Amazon EC2 resources.**
 ### Procedure
